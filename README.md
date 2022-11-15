@@ -6,7 +6,7 @@
 <h2>Computer Science</h2>
 
 
-<h3>Authors: Tatu Puskala (v99110), Onyebuchi Dalbert Zimuzochukwu (z109554)</h3>
+<h3>Authors: Tatu Puskala , Onyebuchi Dalbert Zimuzochukwu </h3>
 
 
 

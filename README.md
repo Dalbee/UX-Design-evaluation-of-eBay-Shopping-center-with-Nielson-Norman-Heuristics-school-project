@@ -129,12 +129,14 @@ We chose the Nielson’s Usability Heuristics used for this project. Jakob Niels
 <br>In this example, we want to buy Dell Laptops.</br>
 <br>From Figure 4, notice that as the user scroll down the page, the user cannot see the shopping cart, and other useful information such as the search bar, and sort functions (Best Match). This violates Flexibility and efficiency of use and User control and freedom. 
 It should be made to remain on top despite scrolling for easy accessibility to the shopping cart.</br>
- 
-<br><b>2.	Shopping cart</b></br>
+
 <img src="https://github.com/Dalbee/UX-Design-evaluation-of-eBay-Shopping-center-with-Nielson-Norman-Heuristics-school-project/blob/master/images/image7.png" alt="Alt text" title="Optional title">  
+
+<br><b>2.	Shopping cart</b></br>
+<br><img src="https://github.com/Dalbee/UX-Design-evaluation-of-eBay-Shopping-center-with-Nielson-Norman-Heuristics-school-project/blob/master/images/image3.png" alt="Alt text" title="Optional title"> </br> 
 <div>Figure 4b: eBay Shopping centre
 (source: https://ebay.com)</div>
-<br><img src="https://github.com/Dalbee/UX-Design-evaluation-of-eBay-Shopping-center-with-Nielson-Norman-Heuristics-school-project/blob/master/images/image8.png" alt="Alt text" title="Optional title"> </br>
+<br><img src="https://github.com/Dalbee/UX-Design-evaluation-of-eBay-Shopping-center-with-Nielson-Norman-Heuristics-school-project/blob/master/images/image5.png" alt="Alt text" title="Optional title"> </br>
 <div>Figure 3b: eBay Shopping cart
 (source: https://ebay.com)</div>
 <br>From Figure 4b, we notice that there is a vacant space beside the shopping centre. Also, from Figure 3b, we observe that the shopping cart is on a new page entirely with so many empty spaces. Users are forced to return to the shopping centre and cannot make side by side comparisons.  Moreover, this page can be optimally optimized to contain more content. 

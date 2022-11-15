@@ -147,7 +147,7 @@ c.	User control and freedom and flexibility and efficiency of use. Users have li
 
 <br><b>3.	The size of the shopping cart symbol</b></br>
 <br>From figure 4b, the size of the shopping cart symbol is very small. It violates the Visibility principle of the usability heuristics. It should be bigger or displayed in brilliant colours.</br>
-
+<br><img src="https://github.com/Dalbee/UX-Design-evaluation-of-eBay-Shopping-center-with-Nielson-Norman-Heuristics-school-project/blob/master/images/image13.png" alt="Alt text" title="Optional title"> </br>
  
 
 
@@ -166,7 +166,7 @@ c.	User control and freedom and flexibility and efficiency of use. Users have li
 <h3>DESIGNING FIRST IMPROVED PROTOTYPE USER INTERFACE</h3>
 
 <b>1.	The shopping cart icon<b>
-<br><img src="https://github.com/Dalbee/UX-Design-evaluation-of-eBay-Shopping-center-with-Nielson-Norman-Heuristics-school-project/blob/master/images/image9.png" alt="Alt text" title="Optional title"></br> 
+<br><img src="https://github.com/Dalbee/UX-Design-evaluation-of-eBay-Shopping-center-with-Nielson-Norman-Heuristics-school-project/blob/master/images/image8.png" alt="Alt text" title="Optional title"></br> 
 Figure 5a: eBay Shopping centre showing the search manipulation bar
 sources: https://ebay.com, author.
 
@@ -175,7 +175,7 @@ sources: https://ebay.com, author.
 
 
 <br><b>2.	The search Manipulation Bar<b></br>
-<br><img src="https://github.com/Dalbee/UX-Design-evaluation-of-eBay-Shopping-center-with-Nielson-Norman-Heuristics-school-project/blob/master/images/image10.png" alt="Alt text" title="Optional title"></br> 
+<br><img src="https://github.com/Dalbee/UX-Design-evaluation-of-eBay-Shopping-center-with-Nielson-Norman-Heuristics-school-project/blob/master/images/image9.png" alt="Alt text" title="Optional title"></br> 
 <p>Figure 5b: eBay Shopping centre showing the search manipulation bar
  (sources: https://ebay.com, author)</p>
 <p>Notice that the contents can be scrolled upwards without affecting the search manipulation bar. </p>
@@ -187,11 +187,11 @@ sources: https://ebay.com, author.
 
 
 <br><b>3.	Shopping cart <b></br>
-<br><img src="https://github.com/Dalbee/UX-Design-evaluation-of-eBay-Shopping-center-with-Nielson-Norman-Heuristics-school-project/blob/master/images/image11.png" alt="Alt text" title="Optional title"> </br> 
+<br><img src="https://github.com/Dalbee/UX-Design-evaluation-of-eBay-Shopping-center-with-Nielson-Norman-Heuristics-school-project/blob/master/images/image10.png" alt="Alt text" title="Optional title"> </br> 
 <br>Figure 5c: eBay Shopping centre showing the shopping cart by the side
 (sources: https://ebay.com, author)</br> 
 
-<br><img src="https://github.com/Dalbee/UX-Design-evaluation-of-eBay-Shopping-center-with-Nielson-Norman-Heuristics-school-project/blob/master/images/image12.png" alt="Alt text" title="Optional title"> </br> 
+<br><img src="https://github.com/Dalbee/UX-Design-evaluation-of-eBay-Shopping-center-with-Nielson-Norman-Heuristics-school-project/blob/master/images/image11.png" alt="Alt text" title="Optional title"> </br> 
 <br> Figure 5d: eBay Shopping centre showing the shopping cart by the side
 (sources: https://ebay.com, author)</br> 
 <br>Continue shopping button has been moved from old shopping cart (see figure 3b) and integrated into a single webpage.</br>
@@ -219,7 +219,7 @@ From figure 5c, we notice the following:
 
 <h3>SECOND IMPROVED PROTOTYPE</h3>
 Shopping cart pop-up design. Notice the presence of a scroll bar on the pop-up page.
- 
+<br><img src="https://github.com/Dalbee/UX-Design-evaluation-of-eBay-Shopping-center-with-Nielson-Norman-Heuristics-school-project/blob/master/images/image12.png" alt="Alt text" title="Optional title"> </br>  
 Figure 5d: eBay Shopping centre showing the shopping cart page as interactive pop-up page.
 sources: https://ebay.com, author
 Here we have created a pop-up page with a scroll bar while maintaining the original eBay design layout. 

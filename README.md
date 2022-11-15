@@ -247,8 +247,8 @@ For instance, designing a pop-up page with the full functionality of a normal we
 
 <h3>REFERENCES</h3>
 
-eBay Inc. (2018a). "Global Trade: 1. Finding International Items On eBay". Available from World Wide Web: <URL: http://pages.ebay.com/globaltrading/buyer/index.html>.
-eBay Inc. (2018b). “Fees, credits and invoices”. Available from World Wide Web: <URL: https://www.ebay.com.au/help/selling/fees-credits-invoices/fees-credits-invoices?id=4070> 
-eBay Inc. (2018c). “eBay shopping site”. Figures 1-5. Available from World Wide Web: <URL:  https://ebay.com>
-Jakob Nielsen (1995). “10 Usability Heuristics for User Interface Design”. Nielsen Norman Group Available from World Wide Web: <URL:  https://www.nngroup.com/articles/ten-usability-heuristics/>
+<p>eBay Inc. (2018a). "Global Trade: 1. Finding International Items On eBay". Available from World Wide Web: <URL: http://pages.ebay.com/globaltrading/buyer/index.html>.</p>
+<p>eBay Inc. (2018b). “Fees, credits and invoices”. Available from World Wide Web: <URL: https://www.ebay.com.au/help/selling/fees-credits-invoices/fees-credits-invoices?id=4070> </p>
+<p>eBay Inc. (2018c). “eBay shopping site”. Figures 1-5. Available from World Wide Web: <URL:  https://ebay.com></p>
+<p>Jakob Nielsen (1995). “10 Usability Heuristics for User Interface Design”. Nielsen Norman Group Available from World Wide Web: <URL:  https://www.nngroup.com/articles/ten-usability-heuristics/></p>
 
